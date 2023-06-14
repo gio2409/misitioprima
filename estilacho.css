@@ -18,6 +18,10 @@ img{
     height: 200px; 
     border: 8px solid snow; 
     margin: 10px;}
+
+.greeting {
+    text-align: center;
+}    
     
 .container{
     max-width: 800px;
